@@ -277,6 +277,7 @@ TRANSITION VIEW
 		vertical-align: middle;
 		font-weight: bold;
 		padding: 0;
+		margin-right: 0;
 	}
 	button#learnMore {
 		margin-top: 0;
